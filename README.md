@@ -4,6 +4,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 ## Contents
 
 - :book: [Datasets](#datasets)
+   AI pour les nuls :p 
 - :cyclone: [Projects](#projects)
 - :newspaper: [Papers](#papers)
 - :zap: [Companies](#companies)
@@ -28,6 +29,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 
 ### Papers 
 ### Companies
+
 #### AI-FIRST:
 
 ### Competitions:
